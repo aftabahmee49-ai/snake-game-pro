@@ -1,0 +1,21 @@
+{
+  "name": "Snake Neon Pro",
+  "short_name": "Snake Pro",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000",
+  "theme_color": "#00ff00",
+  "description": "Neon Snake Game by Aftab",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192/00ff00/000?text=SNAKE",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512/00ff00/000?text=SNAKE", 
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
